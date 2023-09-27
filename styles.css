@@ -25,7 +25,7 @@
 nav {
     width: 100%;
     height: 100px;
-    background-color: rgb(194, 17, 46);
+    background-color: #E91E63;
     display: flex;
     margin-bottom:2em;
     align-items: center;
@@ -61,7 +61,7 @@ nav > li {
     width: 500px;
     height:500px;
     margin: auto;
-    background-color: rgb(194, 17, 46);
+    background-color: #E91E63;
     display: flex;
     flex-wrap: wrap;
     border-radius: 5px;
@@ -81,19 +81,19 @@ nav > li {
 .circulo {
     background-image: url("circulo.png");
     background-size:contain;
-    background-color: rgb(141, 6, 29);
+    background-color: #E91E63;
 }
 
 
 .equis {
     background-image: url("equis.png");
     background-size: contain;;
-    background-color: rgb(141, 6, 29);
+    background-color: #E91E63;
 }
 
 
 .color {
-    background-color: rgb(141, 6, 29);
+    background-color: #ae194b;
 }
 
 
